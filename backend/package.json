@@ -21,6 +21,6 @@
     "nodemon": "^3.0.1"
   },
   "keywords": ["marketing", "education", "attendance"],
-  "author": "",
-  "license": "ISC"
+  "author": "Marketing App Team",
+  "license": "MIT"
 } 

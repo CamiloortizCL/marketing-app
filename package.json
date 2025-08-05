@@ -13,8 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["marketing", "education", "attendance", "react", "nodejs"],
-  "author": "",
-  "license": "ISC",
+  "author": "Marketing App Team",
+  "license": "MIT",
   "devDependencies": {
     "concurrently": "^7.6.0"
   }

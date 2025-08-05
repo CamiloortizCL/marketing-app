@@ -21,6 +21,8 @@
     "@emotion/styled": "^11.10.5",
     "recharts": "^2.5.0"
   },
+  "author": "Marketing App Team",
+  "license": "MIT",
   "browserslist": {
     "production": [
       ">0.2%",

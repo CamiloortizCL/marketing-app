@@ -226,7 +226,17 @@ const PORT = process.env.PORT || 3002; // Cambiar 3001 por otro puerto
 
 ## Licencia
 
-Este proyecto está bajo la Licencia ISC.
+Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+
+### ¿Qué permite la Licencia MIT?
+
+- ✅ **Uso comercial**: Puedes usar este software para fines comerciales
+- ✅ **Modificación**: Puedes modificar el código fuente
+- ✅ **Distribución**: Puedes distribuir el software
+- ✅ **Uso privado**: Puedes usar el software para uso privado
+- ✅ **Sublicenciamiento**: Puedes sublicenciar el software
+
+**Única condición**: Debes incluir la notificación de copyright y la licencia en todas las copias o porciones sustanciales del software.
 
 ## Contacto
 
