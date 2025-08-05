@@ -1,0 +1,23 @@
+{
+  "hostinger": {
+    "nodejs": {
+      "version": "18.x",
+      "start_command": "node src/server.js",
+      "root_directory": "backend",
+      "environment": {
+        "NODE_ENV": "production",
+        "PORT": "3001",
+        "JWT_SECRET": "tu-clave-secreta-super-segura"
+      }
+    },
+    "domains": {
+      "frontend": "app.tudominio.com",
+      "backend": "api.tudominio.com",
+      "main": "tudominio.com"
+    },
+    "ssl": {
+      "enabled": true,
+      "auto_redirect": true
+    }
+  }
+} 
